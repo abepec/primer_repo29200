@@ -48,7 +48,6 @@
     .navFlex li:hover {
         background-color: #a351dd;
         border-radius: 200px;
-        padding; 8px;
     }
     
     .navFlex__a{
@@ -191,7 +190,7 @@
     .navFlex li:hover {
         background-color: #a351dd;
         border-radius: 200px;
-        padding; 8px;
+        padding: 8px;
     }
 
     .navFlex__a{
